@@ -1,7 +1,5 @@
 # 👋 Hey there, I'm Sarvesh Atalkar! 🚀
 
-![Sarvesh Atalkar]
-
 ### Full Stack Developer 💻 | Open for Collaboration 🤝
 
 📧 sarveshatalkar@gmail.com | 📞 +919820693616 | 🌍 Bangalore, India
