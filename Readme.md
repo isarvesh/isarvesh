@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sarvesh Atalkar! 🚀
 
-![Sarvesh Atalkar](https://media.giphy.com/media/U6A5gJf9U6p5K/giphy.gif)
+![Sarvesh Atalkar]
 
 ### Full Stack Developer 💻 | Open for Collaboration 🤝
 
