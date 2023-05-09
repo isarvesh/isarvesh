@@ -12,7 +12,6 @@ I'm a dedicated Full Stack Engineer who loves crafting user-centric web applicat
 
 🎓 **Bachelor’s Degree** in Information Technology, University of Mumbai
 
-## 💡 Skills
 
 ## 💡 Skills
 
